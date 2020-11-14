@@ -1,0 +1,7 @@
+$Test @test2
+#TeSt3 "asdflk;asdglhkas"
+12489 'c' 124.89
++ = - / * ++
+-- % ^&&
+^|| ! { }
+()
